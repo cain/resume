@@ -1,90 +1,49 @@
-# Taylor Swift
+# Cain Hall
 
-> Singer-songwriter
+> Front End Web Developer
 
-USA
+Sydney, New South Wales
 
-I am an American singer-songwriter. One of the leading contemporary recording artists, I is known for narrative songs about her personal life, which have received widespread media coverage.
+Extremely quick and continuous learner for modern development applications. It is my passion to deliver creative and powerful front-end applications, specialising in Javascript development. Experience with modern JavaScript including transpiled ES6/ES7/etc. Excellent communication and interpersonal skills with work clients and colleagues.
 
-* [taylor@swift.com](mailto:taylor@swift.com 'email')
-* [taylorswift.com](https://https://www.taylorswift.com 'website')
-* [tay-swizzy](https://linkedin.com/in/tay-swizzy 'linkedin')
-* [@tswizzle](https://github.com/tswizzle 'github')
+* [me@cainhall.com.au](mailto:me@cainhall.com.au 'email')
+* [cainhall.com.au](http://cainhall.com.au 'website')
+* [cain-hall](https://linkedin.com/in/cainhall/ 'linkedin')
+* [@cain](https://github.com/cain 'github')
 
 ---
 
 ## Work Experience
 
-### [Torch Studios](http://www.torchstudios.com/)
+### [NewsCorp Australia](https://www.newscorpaustralia.com)
 
-**Co-Founder**
+**Front End Developer (contractor)**
 
-* Co-Founded company in 2015
+12 month frontend developer role.
 
-- Applies machine learning to customer purchase history for marketing materials
-- Featured on Product Hunt, clients include two Fourtune 500 companies
+- Support existing product development and maintenance.
+- Work on new internal Vuejs products.
+- Closely working with UX/UI to create optimal solutions.
 
-### AirBnB
+### [Station Five](https://www.stationfive.com/)
 
-**Software Development Intern**
-_Summer 2015_
+**Front End Developer**
+_Jun, 2016 – Aug, 2017_
 
-* Worked in an Agile Environment on the iOS team with other interns
-* Used JIRA to collaborate with developers are on stories
-* Collaborated with other interns on design
-* Used Objective-C to create new app features and scaled on Kubernetes
+Stationfive creates amazing applications and web solutions for every company type - start ups to corporates. My role included creating modern applications from start to finish. Working with various technologies such as ReactJS and VueJs, I worked closely with clients ensuring that we were able to create best solution. Working under two senior full stack developers, I was able to learn best practices and keep up to date with the constantly changing environment.
 
-### Uber
-
-**Software Development Intern**
-_Summer 2014_
-
-* Worked on the iOS application
-* Added new features and fixed several bugs on the app
-* Greenfield project to research a better way to call cars to your location
-
-## Education
-
-### [Dankmeme Polytechic Institue](https://google.com?q=Dankmeme+Polytechic+Institue)
-
-**Computer Science**
-_Graduating May 2016_
-
-Computer Systems Engineering and GPA 3.76
-
-* Penn App Finalist Spring 2016
-* Hophacks 2nd Place Spring 2016
-* Dankmeme Achievement Medal 2016
-* Dan Abromov's Top Follower 2016
-* Advanced Regents Diploma
+* Engineer solutions to complex front end environments such as ReactJS, ReactNative, jQuery, VueJS.
+Initiate and produce smart algorithmic solutions to complex full stack problems.
+* Develope highly scalable APIs using various architectures such as Drupal, Laravel, PHP, Node.
+Take initiative in handling day to day task management.
+* Setup and managed Atlassian suite (JIRA, Confluence).
+Work extremely well in high pressure and close deadline projects.
+* Continuously up-skill and train rolling cycle of interns on latest technologies utilized on product development.
+* Highly involved with design, working with designers creating simple and user friendly products.
+Work with third party clients
 
 ## Projects
 
-### In-It-For-The-Prizes
+### [Blokus Multiplayer Game](https://github.com/cain/vue-blokus)
 
-**Finalist**
-_Penn Apps Spring 2016_
-
-Such and amazing app that did a lot of things. Integrations with Uber, Postmates, Spotify, and Office 365. Written with Ionic Framework and hosted on Kubernetes for the cred
-
-### FoodStash
-
-**2nd Place**
-_Hophacks Spring 2016_
-
-* Food-storage-as-a-Service app that lets people put their food in your fridge
-* All storage and payment in based on the blockchain with Ethereum and Mist
-
-## Skills
-
-* Javascript
-* Scala
-* Python
-* PHP
-* C
-* Java
-* RethinkDB
-* MongoDB
-* MySQL
-* PostgreSQL
-* Redis
+A multiplayer board game created in vuejs. Still WIP!
