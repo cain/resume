@@ -2,25 +2,25 @@
   "name": "cssume",
   "version": "0.2.1",
   "description": "Markdown theme style for resume",
-  "main": "dist/cssume-scope.css",
-  "unpkg": "dist/cssume.css",
-  "cdn": "dist/cssume.css",
-  "jsdelivr": "dist/cssume.css",
-  "style": "dist/cssume-scope.css",
+  "main": "site/cssume-scope.css",
+  "unpkg": "site/cssume.css",
+  "cdn": "site/cssume.css",
+  "jsdelivr": "site/cssume.css",
+  "style": "site/cssume-scope.css",
   "files": [
-    "dist"
+    "site"
   ],
   "scripts": {
     "build:docs": "sitedown docs -l docs/layout.html -b site -e main",
     "watch:docs": "run-p 'build:docs -- -w'",
     "serve:docs": "live-server site --port 8010",
-    "build:lib": "stylus src/*.styl -u autoprefixer-stylus -o dist",
-    "min:lib": "cssnano dist/cssume.css dist/cssume.min.css && cssnano dist/cssume-scope.css dist/cssume-scope.min.css",
-    "version": "npm run build && banner-cli 'dist/*.css' -t $npm_package_version && git add -A dist",
+    "build:lib": "stylus src/*.styl -u autoprefixer-stylus -o site",
+    "min:lib": "cssnano site/cssume.css site/cssume.min.css && cssnano site/cssume-scope.css site/cssume-scope.min.css",
+    "version": "npm run build && banner-cli 'site/*.css' -t $npm_package_version && git add -A site",
     "watch:lib": "run-p 'build:lib -- -o site -w'",
     "dev": "run-p watch:* serve:docs",
-    "build": "rimraf dist/* && run-p build:* && run-p min:lib",
-    "deploy:docs": "cpy dist/*.css site && gh-pages -d site"
+    "build": "rimraf site/* && run-p build:* && run-p min:lib",
+    "deploy:docs": "cpy site/*.css site && gh-pages -d site"
   },
   "homepage": "https://markdone.github.io/cssume/",
   "repository": "markdone/cssume",
