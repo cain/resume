@@ -1,15 +1,15 @@
 # Cain Hall
 
-> Front End Web Developer
+#### Front End Web Developer
 
 Sydney, New South Wales
 
 Extremely quick and continuous learner for modern development applications. It is my passion to deliver creative and powerful front-end applications, specialising in Javascript development. Experience with modern JavaScript including transpiled ES6/ES7/etc. Excellent communication and interpersonal skills with work clients and colleagues.
 
-* [me@cainhall.com.au](mailto:me@cainhall.com.au 'email')
-* [cainhall.com.au](http://cainhall.com.au 'website')
-* [cain-hall](https://linkedin.com/in/cainhall/ 'linkedin')
-* [@cain](https://github.com/cain 'github')
+* [Email](mailto:me@cainhall.com.au 'email')
+* [Website](http://cainhall.com.au 'website')
+* [Linkedin](https://linkedin.com/in/cainhall/ 'linkedin')
+* [Github](https://github.com/cain 'github')
 
 ---
 
