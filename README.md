@@ -1,8 +1,10 @@
+👋
+
 # Cain Hall
 
 #### Front End Web Developer
 
-Sydney, New South Wales
+Sydney, Australia 🇦🇺
 
 Extremely quick and continuous learner for modern development applications. It is my passion to deliver creative and powerful front-end applications, specialising in Javascript development. Experience with modern JavaScript including transpiled ES6/ES7/etc. Excellent communication and interpersonal skills with work clients and colleagues.
 
@@ -18,8 +20,7 @@ Extremely quick and continuous learner for modern development applications. It i
 ### [NewsCorp Australia](https://www.newscorpaustralia.com)
 
 **Front End Developer (contractor)**
-
-12 month frontend developer role.
+_current position_
 
 - Support existing product development and maintenance.
 - Work on new internal Vuejs products.
@@ -43,7 +44,4 @@ Work extremely well in high pressure and close deadline projects.
 Work with third party clients
 
 ## Projects
-
-### [Blokus Multiplayer Game](https://github.com/cain/vue-blokus)
-
-A multiplayer board game created in vuejs. Still WIP!
+Check my [github](https://github.com/cain)
