@@ -6,7 +6,7 @@
 
 Sydney, Australia 🇦🇺
 
-Extremely quick and continuous learner for modern development applications. It is my passion to deliver creative and powerful front-end applications, specialising in Javascript development. Experience with modern JavaScript including transpiled ES6/ES7/etc. Excellent communication and interpersonal skills with work clients and colleagues.
+Extremely quick and continuous learner for modern development applications. It is my passion to deliver creative and powerful front-end applications, specialising in Javascript development. Experience with modern JavaScript including transpiled ES6/ES7/etc.
 
 * [Email](mailto:me@cainhall.com.au 'email')
 * [Website](http://cainhall.com.au 'website')
@@ -20,8 +20,9 @@ Extremely quick and continuous learner for modern development applications. It i
 ### [NewsCorp Australia](https://www.newscorpaustralia.com)
 
 **Front End Developer (contractor)**
-_current position_
+_Aug, 2017 – now_
 
+Working in the product team to deliver a good user experience to thousands of people every day.
 - Support existing product development and maintenance.
 - Work on new internal Vuejs products.
 - Closely working with UX/UI to create optimal solutions.
@@ -44,4 +45,4 @@ Work extremely well in high pressure and close deadline projects.
 Work with third party clients
 
 ## Projects
-Check my [github](https://github.com/cain)
+Check out my [github](https://github.com/cain)
