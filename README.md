@@ -6,7 +6,7 @@
 
 Sydney, Australia 🇦🇺
 
-Extremely quick and continuous learner for modern development applications. It is my passion to deliver creative and powerful front-end applications, specialising in Javascript development. Experience with modern JavaScript including transpiled ES6/ES7/etc.
+Extremely quick and continuous learner for modern development applications. It is my passion to deliver creative and powerful front-end applications, specialising in Javascript development.
 
 * [Email](mailto:me@cainhall.com.au 'email')
 * [Website](http://cainhall.com.au 'website')
@@ -23,13 +23,13 @@ Extremely quick and continuous learner for modern development applications. It i
 _Aug, 2017 – now_
 
 Working with the product (metro/regional) team to deliver excellent user experiences to thousands of people every day.
-- Support existing product development and maintenance.
-- Work on new internal Vuejs products.
-- Closely working with UX/UI.
-- CI/CD on multiple different projects.
-- Agile team structure.
-- Working on [open source](https://github.com/Automattic/liveblog) projects. (ReactJS)
-- Twig/Pug development.
+* Support existing product development and maintenance.
+* Work on new internal Vuejs products.
+* Closely working with UX/UI.
+* CI/CD on multiple different projects.
+* Agile team structure.
+* Working on [open source](https://github.com/Automattic/liveblog) projects. (ReactJS)
+* Twig/Pug development.
 
 ### [Station Five](https://www.stationfive.com/)
 
@@ -38,6 +38,7 @@ _Jun, 2016 – Aug, 2017_
 
 Stationfive creates amazing applications and web solutions for every company type - start ups to corporates. My role included creating modern applications from start to finish. Working with various technologies such as ReactJS and VueJs, I worked closely with clients ensuring that we were able to create best solution. Working under two senior full stack developers, I was able to learn best practices and keep up to date with the constantly changing environment.
 
+* Experience with modern JavaScript including transpiled ES6/ES7/etc.
 * Engineer solutions to complex front end environments such as ReactJS, ReactNative, jQuery, VueJS.
 Initiate and produce smart algorithmic solutions to complex full stack problems.
 * Develope highly scalable APIs using various architectures such as Drupal, Laravel, PHP, Node.
