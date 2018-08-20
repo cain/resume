@@ -1,6 +1,6 @@
 
 
-# Cain Hall 👋
+# Cain Hall
 
 #### Front End Web Developer
 
