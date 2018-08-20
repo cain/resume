@@ -22,10 +22,14 @@ Extremely quick and continuous learner for modern development applications. It i
 **Front End Developer (contractor)**
 _Aug, 2017 – now_
 
-Working in the product team to deliver a good user experience to thousands of people every day.
+Working with the product (metro/regional) team to deliver excellent user experiences to thousands of people every day.
 - Support existing product development and maintenance.
 - Work on new internal Vuejs products.
-- Closely working with UX/UI to create optimal solutions.
+- Closely working with UX/UI.
+- CI/CD on multiple different projects.
+- Agile team structure.
+- Working on [open source](https://github.com/Automattic/liveblog) projects. (ReactJS)
+- Twig/Pug development.
 
 ### [Station Five](https://www.stationfive.com/)
 
@@ -39,10 +43,10 @@ Initiate and produce smart algorithmic solutions to complex full stack problems.
 * Develope highly scalable APIs using various architectures such as Drupal, Laravel, PHP, Node.
 Take initiative in handling day to day task management.
 * Setup and managed Atlassian suite (JIRA, Confluence).
-Work extremely well in high pressure and close deadline projects.
+* Work extremely well in high pressure and close deadline projects.
 * Continuously up-skill and train rolling cycle of interns on latest technologies utilized on product development.
 * Highly involved with design, working with designers creating simple and user friendly products.
-Work with third party clients
+* Work with third party clients
 
 ## Projects
 Check out my [github](https://github.com/cain)
