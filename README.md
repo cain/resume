@@ -17,9 +17,14 @@ Extremely quick and continuous learner for modern development applications. It i
 
 ## Work Experience
 
+### [Plann](https://www.plannthat.com)
+
+**Contract Front-End Developer**
+_Oct, 2018 – now_
+
 ### [NewsCorp Australia](https://www.newscorpaustralia.com)
 
-**Front End Developer**
+**Front-End Developer**
 _Aug, 2017 – now_
 
 Working with the product (metro/regional) team to deliver excellent user experiences to thousands of people every day.
