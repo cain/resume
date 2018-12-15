@@ -46,6 +46,7 @@ Working with the product (metro/regional) team to deliver excellent user experie
 **Front End Developer**
 _Dec, 2016 – Aug, 2017_
 |
+
 **Contract Front End Developer/Designer**
 _Jun, 2016 – Dec, 2016_
 
