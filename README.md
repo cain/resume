@@ -22,6 +22,11 @@ Extremely quick and continuous learner for modern development applications. It i
 **Contract Front-End Developer**
 _Oct, 2018 – now_
 
+Instagram planning, scheduling + analytics web app.
+* Vuejs Web App (vuejs).
+* Provide frontend expertise to improve and refactor codebase.
+* Product development.
+
 ### [NewsCorp Australia](https://www.newscorpaustralia.com)
 
 **Front-End Developer**
