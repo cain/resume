@@ -43,12 +43,9 @@ Working with the product (metro/regional) team to deliver excellent user experie
 
 ### [Station Five](https://www.stationfive.com/)
 
-**Front End Developer**
+**Front-End Developer**
 _Dec, 2016 – Aug, 2017_
-
-|
-
-**Contract Front End Developer/Designer**
+**Contract Front-End Developer/Designer**
 _Jun, 2016 – Dec, 2016_
 
 Stationfive creates amazing applications and web solutions for every company type - start ups to corporates. My role included creating modern applications from start to finish. Working with various technologies such as ReactJS and VueJs, I worked closely with clients ensuring that we were able to create best solution. Working under two senior full stack developers, I was able to learn best practices and keep up to date with the constantly changing environment.
