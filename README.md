@@ -23,7 +23,7 @@ Extremely quick and continuous learner for modern development applications. It i
 _Oct, 2018 – now_
 
 Instagram planning, scheduling + analytics web app.
-* Vuejs Web App.
+* Vuejs/Javascript
 * Provide frontend expertise to improve and refactor codebase.
 * Product development.
 
