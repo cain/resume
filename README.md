@@ -19,7 +19,7 @@ Extremely quick and continuous learner for modern development applications. It i
 
 ### [Plann App](https://www.plannthat.com)
 
-**Contract Front-End Developer**
+**Front-End Developer**
 _Oct, 2018 – now_
 
 Instagram planning, scheduling + analytics web app.
@@ -30,14 +30,13 @@ Instagram planning, scheduling + analytics web app.
 ### [NewsCorp Australia](https://www.newscorpaustralia.com)
 
 **Front-End Developer**
-_Aug, 2017 – now_
+_Aug, 2017 – Apr 2019_
 
 Working with the product (metro/regional) team to deliver excellent user experiences to thousands of people every day.
 * Support existing product development and maintenance.
 * Work on new internal Vuejs products.
 * Closely working with UX/UI.
 * CI/CD on multiple different projects.
-* Agile team structure.
 * Working on [open source](https://github.com/Automattic/liveblog) projects. (ReactJS)
 * Twig/Pug development.
 
@@ -45,7 +44,8 @@ Working with the product (metro/regional) team to deliver excellent user experie
 
 **Front-End Developer**
 _Dec, 2016 – Aug, 2017_
-**Contract Front-End Developer/Designer**
+
+**Junior Front-End Developer/Designer**
 _Jun, 2016 – Dec, 2016_
 
 Stationfive creates amazing applications and web solutions for every company type - start ups to corporates. My role included creating modern applications from start to finish. Working with various technologies such as ReactJS and VueJs, I worked closely with clients ensuring that we were able to create best solution. Working under two senior full stack developers, I was able to learn best practices and keep up to date with the constantly changing environment.
@@ -61,8 +61,6 @@ Take initiative in handling day to day task management.
 * Highly involved with design, working with designers creating simple and user friendly products.
 * Work with third party clients
 
-## Projects
-Check out my [github](https://github.com/cain)
 
 ## Open Source
 
