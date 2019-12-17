@@ -32,7 +32,7 @@ Instagram planning, scheduling + analytics web app.
 **Front-End Developer**
 _Aug, 2017 – Apr 2019_
 
-Working with the product (metro/regional) team to deliver excellent user experiences to hundreds of thousands of people every day.
+Working with the (metro/regional) team to deliver excellent user experiences to hundreds of thousands of people every day.
 * Support existing product development and maintenance.
 * Work on new internal Vuejs products.
 * Closely working with UX/UI.
