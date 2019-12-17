@@ -4,7 +4,7 @@
 
 #### Front End Web Developer
 
-Sydney, Australia 🇦🇺
+Sydney, Australia
 
 Extremely quick and continuous learner for modern development applications. It is my passion to deliver creative and powerful front-end applications, specialising in Javascript development.
 
@@ -32,7 +32,7 @@ Instagram planning, scheduling + analytics web app.
 **Front-End Developer**
 _Aug, 2017 – Apr 2019_
 
-Working with the product (metro/regional) team to deliver excellent user experiences to thousands of people every day.
+Working with the product (metro/regional) team to deliver excellent user experiences to hundreds of thousands of people every day.
 * Support existing product development and maintenance.
 * Work on new internal Vuejs products.
 * Closely working with UX/UI.
@@ -64,5 +64,6 @@ Take initiative in handling day to day task management.
 
 ## Open Source
 
+- #### [NuxtJS](https://github.com/nuxt/nuxt.js) (_Contributor_)
 - #### [Live Blog](https://github.com/Automattic/liveblog) (_Contributor_)
 - #### [Awesome Talks](https://github.com/SaraVieira/awesome-talks) (_Contributor_)
