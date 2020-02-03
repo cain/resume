@@ -65,5 +65,7 @@ Take initiative in handling day to day task management.
 ## Open Source
 
 - #### [NuxtJS](https://github.com/nuxt/nuxt.js) (_Contributor_) [bugfix v2.11](https://github.com/nuxt/nuxt.js/releases/tag/v2.11.0)
-- #### [Live Blog](https://github.com/Automattic/liveblog) (_Contributor_)
+- #### [Live Blog](https://github.com/Automattic/liveblog) (_Contributor_) [improvements, fixes](https://github.com/Automattic/liveblog/commits?author=cain)
+
+     Codesplitting/chunking, Clean import costs using BundleAnalyzerPlugin
 - #### [Awesome Talks](https://github.com/SaraVieira/awesome-talks) (_Contributor_)
