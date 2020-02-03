@@ -17,12 +17,12 @@ Extremely quick and continuous learner for modern development applications. It i
 
 ## Experience
 
-### [Plann App](https://www.plannthat.com)
+### [Plann](https://www.plannthat.com)
 
 **Front-End Developer**
 _Oct, 2018 – now_
 
-Instagram planning, scheduling + analytics web app.
+Plann is an Instagram planning, scheduling + analytics web app.
 * Vuejs/Javascript
 * Provide frontend expertise to improve and refactor codebase.
 * Product development.
