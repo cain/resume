@@ -56,7 +56,7 @@ Stationfive creates amazing applications and web solutions for every company typ
 * Experience with modern JavaScript including transpiled ES6/ES7/etc.
 * Engineer solutions to complex front end environments such as ReactJS, ReactNative, jQuery, VueJS.
 Initiate and produce smart algorithmic solutions to complex full stack problems.
-* Develope highly scalable APIs using various architectures such as Drupal, Laravel, PHP, Node.
+* Develop highly scalable APIs using various architectures such as Drupal, Laravel, PHP, Node.
 Take initiative in handling day to day task management.
 * Setup and managed Atlassian suite (JIRA, Confluence).
 * Work extremely well in high pressure and close deadline projects.
