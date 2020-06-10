@@ -26,9 +26,9 @@ Apr, 2019 – _now_
 Oct, 2018 – Apr 2019
 
 Plann is an Instagram planning, scheduling + analytics web app.
-* Vuejs/Javascript
-* Provide frontend expertise to improve and refactor codebase.
-* Product development.
+* Improve and refactor codebase.
+* Product and user experience.
+* Open source projects (nuxtjs, buefy).
 
 ### [NewsCorp Australia](https://www.newscorpaustralia.com)
 
