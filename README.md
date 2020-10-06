@@ -35,6 +35,7 @@ Aug, 2017 – Apr 2019
 
 Working with the (metro/regional) team to deliver excellent user experiences to hundreds of thousands of people.
 * Support existing product development and maintenance.
+* New Auth0 authentication and paywall system.
 * Work on new internal Vuejs products.
 * Closely working with UX/UI.
 * CI/CD on multiple different projects.
