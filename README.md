@@ -6,8 +6,6 @@
 
 Sydney, Australia
 
-Extremely quick and continuous learner for modern development applications. It's my passion to deliver creative and powerful front-end applications, specialising in Javascript development.
-
 * [Email](mailto:cainh8@gmail.com 'email')
 * [Linkedin](https://linkedin.com/in/cainhall/ 'linkedin')
 * [Github](https://github.com/cain 'github')
