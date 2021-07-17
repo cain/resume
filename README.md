@@ -74,3 +74,4 @@ Take initiative in handling day to day task management.
 
      Codesplitting/chunking, Clean import costs using BundleAnalyzerPlugin
 - #### [Awesome Talks](https://github.com/SaraVieira/awesome-talks) (_Contributor_)
+- #### [Buefy](https://github.com/buefy/buefy) (_Contributor_)
